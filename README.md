@@ -95,5 +95,7 @@ Cada tarefa tem os seguintes campos:
 # Alunos que desenvolveram o projeto
 
 Claudio Alves - RM 568565
+
 Luna Rousseau - RM 564215
+
 Rodrigo G. Wolk - RM 556980
